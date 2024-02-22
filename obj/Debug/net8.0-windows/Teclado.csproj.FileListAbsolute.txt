@@ -1,0 +1,16 @@
+C:\Users\Victor Alejandro\source\repos\Teclado\bin\Debug\net8.0-windows\Teclado.exe
+C:\Users\Victor Alejandro\source\repos\Teclado\bin\Debug\net8.0-windows\Teclado.deps.json
+C:\Users\Victor Alejandro\source\repos\Teclado\bin\Debug\net8.0-windows\Teclado.runtimeconfig.json
+C:\Users\Victor Alejandro\source\repos\Teclado\bin\Debug\net8.0-windows\Teclado.dll
+C:\Users\Victor Alejandro\source\repos\Teclado\bin\Debug\net8.0-windows\Teclado.pdb
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.Form1.resources
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.csproj.GenerateResource.cache
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.AssemblyInfo.cs
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.dll
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\refint\Teclado.dll
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.pdb
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\Teclado.genruntimeconfig.cache
+C:\Users\Victor Alejandro\source\repos\Teclado\obj\Debug\net8.0-windows\ref\Teclado.dll
